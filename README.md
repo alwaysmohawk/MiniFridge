@@ -22,7 +22,16 @@ ISSUES:
 
 
 # BOM (specific to LDO v0.2 kits)
+### **Printed**
 
+- 2x mini_fridge_bottom_latch_left OR right
+
+- 2x mini_fridge_top_latch_left OR right
+
+- 10x m3 x 8 Allen BHCS bolts
+
+- 4x m3 x 16 Allen SHCS Bolt
+  
 ### **Hardware**
 
 - 4x m5 x 40 Pin
