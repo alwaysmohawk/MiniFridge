@@ -63,11 +63,3 @@ Front Door Panel:
 
 
 
-
-## Versions 
-
-${{\color{lime}\Huge{\textsf{  Mini\ Fridge\ \}}}}\$
-
-${{\color{cyan}\Huge{\textsf{  Mini\ Fridge\ 3mm foam\ \}}}}\$
-
-
