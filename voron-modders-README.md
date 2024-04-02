@@ -1,15 +1,12 @@
 # MiniFridge
 ## Fridge Door for v0's
 
-This is a fork of the project by The Voron Modder. While the design work he did is awesome, and I'm happy with the outcome of my fridge door build, I found the github repo needed some help. I'm not very familiar with Github, so instead of sending a tonne of pull requests I thought I'd fork it and see how clean I can get the repo.
+V0.2 Mini Fridge Door Handle ready for business! This project is a revision of WhoppingPochard’s Clicky-Clack Door mod commonly known as or referred to as “Fridge Door Mod” or simply the “Fridge Door”
 
-The Mini Fridge Door Mod is a version of WhoppingPochard's Clicky-Clack Door Mod, commonly referred to as the Fridge Door Mod.
+![OEM skirts 3](https://github.com/TheVoronModder/MiniFridge/assets/142328467/fc336070-b607-4d19-9464-03042bfeda84)
 
-Issues: You may have issues with the location of the stock screen once the door is installed. While it doesn't interfere, it's readability is diminished. A server admin for Fizzy Tech's Discord server, Jose, designed some skirt extenders, which may rectify this issue.
 
-You may be able to source the extrusions by buying a tophat extrusion kit.
-
-I used cheap 1515 extrusions off Aliexpress. While they were very affordable, I'm not sure I'd use them again. Their holes are too big to fit m3 hardware, so I had to tap them and print little spacers to thread in so that I could use m3 screws. I also had to design some "no drop nuts" or nut retention brackets since the channel of the extrusion was too wide.
+I needed a better door for my v0.2 the flip up lid isn’t necessary to me so I created the “Mini Fridge Version 1” Then I realized I could shrink WhoppingPochard’s Clicky-Clack Door and re-fit it for the v0’s 3mm slot extrusions.
 
 # Special thanks to whoppingpochard for creating the original mod for the 2.4 and Trident found here:
 
@@ -41,9 +38,9 @@ ISSUES:
   
 ### **Hardware**
 
-- 4x 5mm x 40mm Pin
+- 4x m5 x 40 Pin
 
-- 12x 6mm x 3mm Neodymium magnets
+- 12x m6 x 3 Neodymium magnets
 
 - 10x m3 x 8 Allen BHCS bolts
 
@@ -55,11 +52,15 @@ ISSUES:
 
 - 2x 200mm (for X)
 
-- 2x 350mm (for z)
+- 2x 350mm (for Y)
 
 ### **Front Door Panel**
 
-Front Door Panel: I still haven't made my door panel yet, but I'll get that measured out and post the results here.
+Front Door Panel:
+
+### **Optional But Highly Recommended Side Panels**
+
+
 
 ### _Top Hats for LDO are shorter than generic Voron V0.2 kits._
 
