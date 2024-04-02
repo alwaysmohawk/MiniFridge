@@ -11,7 +11,7 @@ You may be able to source the extrusions by buying a tophat extrusion kit.
 
 I used cheap 1515 extrusions off Aliexpress. While they were very affordable, I'm not sure I'd use them again. Their holes are too big to fit m3 hardware, so I had to tap them and print little spacers to thread in so that I could use m3 screws. I also had to design some "no drop nuts" or nut retention brackets since the channel of the extrusion was too wide.
 
-# Special thanks to whoppingpochard for creating the original mod for the 2.4 and Trident found here:
+### Special thanks to whoppingpochard for creating the original mod for the 2.4 and Trident found here:
 
 https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door
 
@@ -24,7 +24,7 @@ ISSUES:
 1.	if your running any screen other than the stock one you need to either print Fizzy Tech Discord Server Admin Jose’s skirt extenders for HartK’s Stealthchop mod with Waveshare 2.8” screen found here: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%200/0.2/2_8WaveshareDisplay/Stealth/STLs/Stealth
 
 
-# BOM (specific to LDO v0.2 kits)
+# BOM 
 ### **Printed**
 
 - 2x [hinge_left_bottom OR hinge_right_bottom]
